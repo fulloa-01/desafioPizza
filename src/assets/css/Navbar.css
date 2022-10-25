@@ -1,0 +1,70 @@
+.form-cont-navbar{
+
+    height: 7vh;
+    background-color:#17A1B8 ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.active {
+
+    color: white;
+    margin: 2vh;
+    text-decoration:none;
+    text-align: center; 
+    
+}
+
+.form-cont-nombre{
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.form-cont-carrito{
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.form-cont-img-pizza{
+
+    width: 8vh;
+    height: 8h;
+    margin: 0 0 0 15vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}
+
+.form-cont-img-carrito{
+
+    width: 8vh;
+    height: 8h;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.form-img-navbar{
+
+    width: 100%;
+    height: 100%;
+    
+}
+
